@@ -1,0 +1,13 @@
+*.o
+*.a
+.DS_Store
+bin
+lib/flac/osxintel/build
+lib/flac/osxintel/include
+lib/libmad/osxintel/build
+lib/libmad/osxintel/include
+lib/lirc/osxintel/build
+lib/lirc/osxintel/include
+lib/vorbis/osxintel/build
+lib/vorbis/osxintel/build
+lib/vorbis/osxintel/include
